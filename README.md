@@ -2,7 +2,7 @@
 
 <h3 align="center">💻 Desenvolvedor Back-end Júnior | Java & Spring Boot</h3>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+<h3 align="center"> 🎓 Estudante de Análise e Desenvolvimento de Sistemas </h3>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end utilizando Java, Spring Boot, APIs REST e SQL.
 
