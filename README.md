@@ -1,7 +1,3 @@
-<h1 align="center">👋 Olá, eu sou Lucas Venturi de Souza!</h1>
-
-<h3 align="center">💻 Back-end Developer | Java & Spring Boot</h3>
-
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas, focado em Java, Spring Boot, APIs REST e bancos de dados.
 </p>
@@ -31,12 +27,5 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em Java, Spring Boot
 </p>
 
 <p align="center">
-🎯 Sempre aprendendo, desenvolvendo projetos e evoluindo como desenvolvedor back-end.
+💻 Sempre aprendendo, desenvolvendo projetos e evoluindo como desenvolvedor back-end.
 </p>
-🔗 Ver repositório
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasventurii&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Lucas Venturi" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs
