@@ -1,92 +1,38 @@
 <h1 align="center">👋 Olá, eu sou Lucas Venturi de Souza!</h1>
 
-<h3 align="center">💻 Desenvolvedor Back-end Júnior | Java & Spring Boot</h3>
+<h3 align="center">💻 Back-end Developer | Java & Spring Boot</h3>
 
-<h3 align="center"> 🎓 Estudante de Análise e Desenvolvimento de Sistemas </h3>
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end utilizando Java, Spring Boot, APIs REST e SQL.
-
-Tenho conhecimentos em Programação Orientada a Objetos, bancos de dados relacionais e desenvolvimento de aplicações back-end, aplicados em projetos práticos.
-
-Minha trajetória também inclui experiência como empreendedor no e-commerce, onde desenvolvi habilidades analíticas, automação de processos e análise de indicadores. Busco combinar essa visão de negócio com a tecnologia para construir soluções eficientes e escaláveis.
-
-🛠️ Tecnologias e ferramentas
-Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring, Hibernate e Maven" />
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas, focado em Java, Spring Boot, APIs REST e bancos de dados.
 </p>
 
-Banco de dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL e MongoDB" />
+<p align="center">
+<a href="https://www.linkedin.com/in/lucasventuri">LinkedIn</a> •
+<a href="https://github.com/lucasventurii">GitHub</a> •
+<a href="mailto:lucasventuri@hotmail.com">E-mail</a>
 </p>
 
-Ferramentas e desenvolvimento
+🚀 Tecnologias
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" alt="Git, GitHub, Postman, IntelliJ IDEA e VS Code" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,postman" alt="Java, Spring Boot, MySQL, Maven, Git, GitHub e Postman" />
 </p>
 
-Outras tecnologias e conhecimentos
-Linguagens: Java, Python e SQL
-Back-end: Spring Boot, Spring Data JPA, Hibernate e APIs REST
-Web: HTML, CSS e JavaScript
-Dados: MySQL, NoSQL, Excel Avançado, Power Query e Power BI
-Ferramentas: Git, GitHub, Maven, Postman e Insomnia
-IA aplicada ao desenvolvimento: GitHub Copilot, ChatGPT e Claude
-🚀 Projetos em destaque
-🥟 Baozi Store API
+📌 Projetos em destaque
+🥟 Baozi Store API — API REST para gerenciamento de clientes, produtos e pedidos.
+📋 Task Manager API — API para gerenciamento de tarefas com operações CRUD.
+🏦 Sistema Bancário em Java — Aplicação com POO, operações bancárias e tratamento de exceções.
+💰 Conta Bancária — Projeto de console para praticar lógica de programação.
+📊 GitHub Stats
 
-Java · Spring Boot · Spring Data JPA · MySQL · REST API
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasventurii&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasventurii&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
 
-API REST para gerenciamento de clientes, produtos e pedidos, com persistência de dados em banco MySQL.
-
-Desenvolvimento de endpoints para cadastro, consulta, listagem e exclusão.
-Modelagem de entidades com Programação Orientada a Objetos.
-Integração com MySQL utilizando Spring Data JPA.
-Testes de requisições HTTP e respostas JSON com Postman.
-
-🔗 Ver repositório
-
-📋 Task Manager API
-
-Java · Spring Boot · Maven · REST API
-
-API para gerenciamento de tarefas, aplicando conceitos de desenvolvimento back-end.
-
-Implementação das operações CRUD.
-Criação de endpoints para manipulação de tarefas.
-Utilização de identificadores automáticos e armazenamento em memória.
-Testes dos endpoints com Insomnia.
-
-🔗 Ver repositório
-
-🏦 Sistema Bancário em Java
-
-Java · Programação Orientada a Objetos
-
-Sistema bancário em console desenvolvido para praticar conceitos fundamentais da linguagem Java.
-
-Aplicação de encapsulamento, herança, abstração e polimorfismo.
-Operações de criação de contas, depósitos, saques e transferências.
-Organização em camadas Model, Service e Exception.
-Tratamento de exceções personalizadas e regras de negócio.
-
-🔗 Ver repositório
-
-💰 Conta Bancária
-
-Java · Lógica de Programação
-
-Aplicação de console para simulação de operações bancárias básicas.
-
-Cadastro de conta e consulta de saldo.
-Operações de depósito e saque.
-Utilização de estruturas condicionais, laços de repetição e switch-case.
-Entrada de dados com Scanner.
-
+<p align="center">
+🎯 Sempre aprendendo, desenvolvendo projetos e evoluindo como desenvolvedor back-end.
+</p>
 🔗 Ver repositório
 
 📊 Estatísticas do GitHub
