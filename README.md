@@ -1,5 +1,6 @@
-👋 Olá! Eu sou Lucas Venturi de Souza
-💻 Desenvolvedor Back-end Júnior | Java & Spring Boot
+<h1 align="center">👋 Olá, eu sou Lucas Venturi de Souza!</h1>
+
+<h3 align="center">💻 Desenvolvedor Back-end Júnior | Java & Spring Boot</h3>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
